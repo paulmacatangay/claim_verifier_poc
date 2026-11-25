@@ -1,0 +1,15 @@
+# Core
+numpy>=1.24
+rank-bm25==0.2.2
+spacy>=3.7
+pandas>=2.0
+streamlit>=1.40
+PyMuPDF>=1.24
+
+# Real backend (pretrained models, used without fine-tuning)
+torch>=2.1
+transformers>=4.40
+sentence-transformers>=3.0
+
+# Tests
+pytest>=8.0

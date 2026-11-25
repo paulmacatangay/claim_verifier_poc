@@ -1,0 +1,7 @@
+# The licensed textbook, the index built from it and the audit logs must not be shared
+data/
+*.pdf
+__pycache__/
+.pytest_cache/
+.venv/
+config.json
